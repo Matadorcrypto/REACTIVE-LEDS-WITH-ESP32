@@ -6,8 +6,8 @@
 #include "driver/gpio.h"
 
 // ================= WIFI / WEB =================
-static const char* WIFI_SSID = "Stinky";
-static const char* WIFI_PASS = "Prinzessin457";
+static const char* WIFI_SSID = "YOU WIFI NAME";
+static const char* WIFI_PASS = "YOU WIFI PASSWORD";
 WebServer server(80);
 
 // ================= LED =================
